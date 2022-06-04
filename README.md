@@ -17,4 +17,4 @@
 # [bubblegum](https://drive.google.com/file/d/1w_Yrn1p0h01Q5us7u9xdclvIVOaTEL1I/edit)
 
 # [cinia](https://skins.osuck.net/index.php?newsid=1626)
-! [](https://skins.osuck.net/uploads/posts/2020-09/1600020400_screenshot9501.jpg)
+![](https://skins.osuck.net/uploads/posts/2020-09/1600020400_screenshot9501.jpg)
